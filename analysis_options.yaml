@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+rules:
+  # Enable additional lint rules here.
+  # See https://dart.dev/guides/language/effective-dart/style
+  prefer_final_fields: true
+  avoid_print: true
+  prefer_const_declarations: true
+
+  #Disable specific lint rules
+  unnecessary_this: false
+  avoid_empty_else: false
