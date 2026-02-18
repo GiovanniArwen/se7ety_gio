@@ -55,7 +55,7 @@ The project follows a structured architecture using:
 <p align="center">
   <img src="assets/readme/login.jpeg" width="200"/>
   <img src="assets/readme/loginasDoctor.jpeg" width="200"/>
-  <img src="assets/readme/loginadPatient.jpeg" width="200"/>
+  <img src="assets/readme/loginasPatient.jpeg" width="200"/>
 </p>
 
 ### 👨‍⚕️ Doctor Profile
