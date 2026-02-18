@@ -46,7 +46,7 @@ The project follows a structured architecture using:
 ## 📸 Screenshots
 
 ### SplashScreen
-![splash](assets/readme/splash.jpeg)
+![splash](assets/readme/spalsh.jpeg)
 
 ### 🏠 Home Screen
 ![Home](assets/readme/home.jpeg)
@@ -73,11 +73,9 @@ The project follows a structured architecture using:
 ---
 
 ## ⚙️ Settings 
-
 ![settings](assets/readme/settings.jpeg)
 
 ## 👤 PatientProfile 
-
 ![settings](assets/readme/profilePatient.jpeg)
 
 ```bash
