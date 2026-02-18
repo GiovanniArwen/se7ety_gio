@@ -52,10 +52,17 @@ The project follows a structured architecture using:
 ![Login](assets/readme/login.jpeg)
 
 ### 👨‍⚕️ Doctor Profile
-![Doctor](assets/screenshots/DoctorProfile.jpeg)
+
+![Doctor](assets/readme/DoctorProfile.jpeg)
 
 ### 📅 Booking Screen
-![Booking](assets/screenshots/booking1.jpeg)
+<p align="center">
+  <img src="assets/readme/booking1.jpeg" width="250"/>
+  <img src="assets/readme/booking2.jpeg" width="250"/>
+  <img src="assets/readme/bookingdone.jpeg" width="250"/>
+  <img src="assets/readme/bookinglist.jpeg" width="250"/>
+</p>
+![Booking](assets/readme/booking1.jpeg)
 ---
 
 ## 📦 Installation
