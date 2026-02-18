@@ -52,9 +52,8 @@ The project follows a structured architecture using:
 ![Home](assets/readme/home.jpeg)
 
 ### 🔐 Login Screen
-![Login](assets/readme/login.jpeg)
 <p align="center">
-  <img src="assets/readme/login.jpeg" width="100"/>
+  <img src="assets/readme/login.jpeg" width="200"/>
   <img src="assets/readme/loginasDoctor.jpeg" width="200"/>
   <img src="assets/readme/loginadPatient.jpeg" width="200"/>
 </p>
