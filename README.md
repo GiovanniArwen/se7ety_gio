@@ -73,6 +73,8 @@ The project follows a structured architecture using:
 
 ## ⚙️ Settings 
 ![settings](assets/readme/settings.jpeg)
+
+## 👤 PatientProfile 
 ![settings](assets/readme/profilePatient.jpeg)
 
 ```bash
