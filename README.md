@@ -45,11 +45,19 @@ The project follows a structured architecture using:
 
 ## 📸 Screenshots
 
+### SplashScreen
+![splash](assets/readme/splash.jpeg)
+
 ### 🏠 Home Screen
 ![Home](assets/readme/home.jpeg)
 
 ### 🔐 Login Screen
 ![Login](assets/readme/login.jpeg)
+<p align="center">
+  <img src="assets/readme/login.jpeg" width="200"/>
+  <img src="assets/readme/loginasDoctor.jpeg" width="200"/>
+  <img src="assets/readme/loginadPatient.jpeg" width="200"/>
+</p>
 
 ### 👨‍⚕️ Doctor Profile
 
@@ -57,15 +65,20 @@ The project follows a structured architecture using:
 
 ### 📅 Booking Screen
 <p align="center">
-  <img src="assets/readme/booking1.jpeg" width="250"/>
-  <img src="assets/readme/booking2.jpeg" width="250"/>
-  <img src="assets/readme/bookingdone.jpeg" width="250"/>
-  <img src="assets/readme/bookinglist.jpeg" width="250"/>
+  <img src="assets/readme/booking1.jpeg" width="200"/>
+  <img src="assets/readme/booking2.jpeg" width="200"/>
+  <img src="assets/readme/bookingdone.jpeg" width="200"/>
+  <img src="assets/readme/bookinglist.jpeg" width="200"/>
 </p>
-![Booking](assets/readme/booking1.jpeg)
 ---
 
-## 📦 Installation
+## ⚙️ Settings 
+
+![settings](assets/readme/settings.jpeg)
+
+## 👤 PatientProfile 
+
+![settings](assets/readme/profilePatient.jpeg)
 
 ```bash
 git clone https://github.com/GiovanniArwen/se7ety_gio.git
